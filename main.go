@@ -1,6 +1,6 @@
 package main
 
-//go:generate sqlboiler mysql
+//go:generate sqlboiler -d mysql
 
 func main() {
 }
